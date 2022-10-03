@@ -8,7 +8,7 @@
     Este proyecto, al tratarse de un trabajo realizado por solamente una persona, fue llevado a cabo en su mayoría en un repositorio local, habiendo creado a la hora de la preparación para la entrega del proyecto un repositorio remoto en GitHub de forma que todos los archivos y la totalidad del proyecto pudiera ser entregado correctamente.
     A la hora de trabajar con Git, llevé a cabo una gran cantidad de commits, con el objetivo de poder guardar de forma organizada y en el mismo lugar, todos los archivos e ideas que fueron surgiendo a lo largo del desarrollo del proyecto. 
     Cabe aclarar que dentro del repositorio solo trabajé con la rama main, sin hacer uso de ramas separadas, ya que a la hora de trabajar, siendo una sola persona encargada del proyecto y conociendo plenamente la organización del mismo, consideré que la creación de ramas separadas no sería realmente necesaria, y el trabajo sería más fácil de llevar y entender si los commits se realizaban de forma organizada en la rama main.
-    Dentro del repositorio GitHub, hay una carpeta de nombre "Evolución repositorio" que contendrá información sobre todos los commits realizados y el log del mismo (información adicional sobre mi experiencia con el proyecto trabajando en Git será tratada en la sección "Reflexión").
+    Dentro del repositorio GitHub, hay una carpeta de nombre "Evolución repositorio" que contendrá información sobre todos los commits realizados (información adicional sobre mi experiencia con el proyecto trabajando en Git será tratada en la sección "Reflexión"). Dichos commits, junto con el log también estarán subidos como imágenes en los issues del GitHub.
     Link del repositorio remoto GitHub: https://github.com/LagartoBassano/Bassano.git
 
 2. Elicitación
