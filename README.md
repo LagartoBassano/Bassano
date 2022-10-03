@@ -14,7 +14,7 @@
 
     A la hora de realizar entrevistas, estaba claro que sería necesario obtener un conjunto heterogéneo de opiniones y visiones de personas que pudieran desempeñarse de manera marcada y diferenciada entre ellos de usarse la aplicación que se pretende crear. De esta forma, es más fácil llegar a conclusiones que permitan identificar y desarrollar los requisitos imperativos a llevar a cabo para que todos los usuarios de la aplicación, pese a vivir la realidad de dicha aplicación de forma distinta, puedan manejarse y utilizarla con facilidad, procurando siempre brindarle al usuario la mejor experiencia posible.
   
-  2.1. Caracterización de usuarios
+    2.1. Caracterización de usuarios
 
       Con el objetivo anteriormente planteado, decidí centrarme en tres tipos de usuarios (o User Personas) que a grandes rasgos encierran todos los posibles usuarios de la aplicación, y estos son: espectador casual, espectador aficionado y espectador acérrimo.
       Sin embargo, luego de llegar a la conclusión de que estas tres categorías podrían englobar a todos los posibles usuarios de la aplicación (espectadores del mundial), comencé a verificar dicha conclusión.
@@ -24,7 +24,7 @@
 
       2.1.1 Espectador casual
 
-          Dentro de este User Persona podemos encontrar al espectador del mundial que no tiene un interés remarcable por los partidos del mismo, interesándose tal vez en los partidos de su selección. Dentro de esta categoría podemos destacar dos tipos de espectadores casuales:
+            Dentro de este User Persona podemos encontrar al espectador del mundial que no tiene un interés remarcable por los partidos del mismo, interesándose tal vez en los partidos de su selección. Dentro de esta categoría podemos destacar dos tipos de espectadores casuales:
 
             A. Espectador casual no hincha
 
@@ -37,7 +37,20 @@
                 El espectador casual hincha no tiene un mayor interés por el mundial en general. Sin embargo, sí demuestra interés por los partidos de su selección y está decidido a verlos todos.
                 Para poder identificar con mayor claridad a este tipo de usuario, luego de dejar establecido su interés por los partidos de su selección, realicé una serie de preguntas para comprobar la falta de interés por el resto de partidos del mundial. Preguntas entre las cuales se encuentra "¿Verías la final del mundial aunque no la juegue tu selección?", entre otras preguntas del estilo.
       
-      
+      2.1.2 Espectador aficionado
+
+            Este User Persona demuestra gran interés por los partidos de su selección. Además, muestra cierto interés por determinados partidos del mundial que no incluyen a su selección entre las que jugarán pero de todas formas son partidos de interés.
+            A la hora de identificar entre los entrevistados que personas caerían dentro de esta categoría, decidí realizar una serie de preguntas, algunas más directas entre las cuales, por ejemplo, se encuentra "¿Estás interesado en ver partidos donde no juegue tu selección?" o "¿Te interesa ver partidos de alguna otra selección en particular?", así como preguntas más indirectas relacionadas, por ejemplo, a partidos de interés general del mundial pasado, como "¿Recordás ver algún partido del mundial pasado?", u otras más específicas como "¿Recordás ver el partido de Portugal vs España de 2018?" (partido recordado por su anticipación y porque todo el mundo quería verlo).
+            Cabe mencionar que dentro de esta categoría, uno de los entrevistados que formó parte de los seis entrevistados finales (se hablará de eso en la sección "Especificación") es de nacionalidad alemana, lo cual ayuda a poder conseguir un espectro más amplio de visiones de los entrevistados.
+    
+        2.1.3 Espectador acérrimo
+
+            Dentro de este tipo de usuario caen los espectadores del mundial interesados en ver un gran número de partidos que no incluyan a su selección (se sobreentiende que están interesados en ver los partidos de su selección), ya sea ver ciertos partidos de interés o directamente ver todos los partidos posibles.
+            Los entrevistados para los User Stories del tipo espectador acérrimo fueron los que plantearon funcionalidades de mayor exigencia y especifidad, teniendo que descartar algunas por su quasi imposibilidad o gran dificultad.
+
+    El modelo conceptual del problema se encuentra dentro del repositorio en la carpeta "Modelo conceptual del problema"
+
+3. 
 
       
 
