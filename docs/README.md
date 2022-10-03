@@ -57,7 +57,7 @@
     Las especificaciones y funcionalidades fueron obtenidas a partir de la técnica o método del "Como, quiero, para", a partir del cual planteé una simple tarea a los entrevistados, intentar pensar que funcionalidades debería tener la app, que cosas les debería permitir hacer, y formalizar dichas ideas especificando que tipo de usuario son, que es lo que quieren que la app tenga o permita y para qué.
     Posteriormente, mediante análisis, prioricé las funcionalidades que consideré más importantes y reduje el número de funcionalidades finales planeadas para la aplicación.
     De esta forma, seleccionando algunos User Stories repetidas y otras no repetidas pero de gran utilidad, formalicé los requisitos funcionales y transformé las User Stories seleccionadas para desarrollar en ocho Use Cases. Las listas con los User Stories y los Use Cases se encuentran dentro de la carpeta "User Stories/Use Cases".
-    Los requisitos, bocetos de IU, y otros puntos de interés, se encuentran en el documento "Documento de Especificación" dentro de la carpeta "docs".
+    Los requisitos y bocetos de IU se encuentran en el documento "Requerimientos y bocetos de IU" dentro de la carpeta "docs".
 
 4. Validación y verificación
 

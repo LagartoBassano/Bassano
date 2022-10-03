@@ -1,0 +1,63 @@
+1.
+
+Título: Seleccionar selecciones
+Actor: Usuario de la app
+Precondiciones: Debe existir un botón que permita seleccionar selecciones y de la opción de seleccionar por bandera o por nombre
+Camino normal: El usuario debe poder clickear el botón de seleccionar selecciones. Luego, se le debe ofrecer seleccionar por bandera o por nombre. Una vez seleccionadas todas las selecciones que le interesan al usuario, debe clickear un botón de aceptar. Finalmente, se cierra la ventana de selección
+Postcondiciones: Se muestran en la interfaz todos los partidos de las selecciones elegidas por el usuario
+
+2.
+
+Título: Seleccionador de idiomas
+Actor: Usuario de la app
+Precondiciones: Debe existir un botón que permita seleccionar idiomas al usuario, las opciones serán inglés (como idioma universal) y español (como idioma local a donde se desarrolló la app)
+Camino normal: El usuario debe poder clickear el botón de seleccionar idiomas. Luego, se le debe ofrecer elegir entre español e inglés. El usuario debe seleccionar uno de los dos clickeando el respectivo radio button. Finalmente, se cierra la ventana de selección.
+Postcondiciones: La página se traduce completa al idioma seleccionado
+
+3.
+
+Título: Realizar predicción
+Actor: Usuario de la app
+Precondiciones: Debe existir un botón de predicción al lado de cada partido.
+Camino normal: Al clickear el botón de predicción, se abrirá una ventana de predicciones donde el usuario podrá realizar una predicción del resultado completando unos espacios vacíos de texto. Una vez terminado, el usuario debe clickear aceptar. Finalmente, se cierra la ventana de predicciones
+Postcondiciones: Se guardarán las predicciones del usuario
+
+4.
+
+Título: Comparar predicción y resultado
+Actor: Usuario de la app
+Precondiciones: Debe existir un botón de resultados de los partidos.
+Camino normal: Al clickear el botón de resultados, se abrirá una ventana de resultados donde el usuario podrá ver los resultados de todos los partidos jugados hasta la fecha y las predicciones realizadas por el mismo. Al clickear cerrar, se cierra la ventana de resultados
+Postcondiciones: -
+
+5.
+
+Título: Elegir vista de los partidos
+Actor: Usuario de la app
+Precondiciones: Deben existir dos radio button, uno llamado "lista" que estará seleccionado por defecto y otro con el nombre de "slide"
+Camino normal: Al clickear cualquiera de los radio button, se cambiará la forma en la que se muestran los partidos. El botón "lista" los mostrará en una lista y el "slide" en un panel corredizo mediante click que mostrará los partidos uno a uno
+Postcondiciones: -
+
+6.
+
+Título: Buscar partidos por fecha
+Actor: Usuario de la app
+Precondiciones: Debe existir un botón de buscar por fecha
+Camino normal: Al clickear el botón "buscar por fecha" se abrirá una ventana que le permitirá al usuario ingresar una fecha. Luego de clickear en aceptar, se cerrará la ventana de buscar por fecha.
+Postcondiciones: Se mostrarán en pantalla todos los partidos que se jugaron o se jugarán en esa fecha.
+
+7.
+
+Título: Ver goleadores
+Actor: Usuario de la app
+Precondiciones: Debe existir un botón de mostrar goleadores
+Camino normal: Al clickear el botón de goleadores, se mostrará abajo de cada resultado de los partidos ya jugados quienes hicieron los goles
+Postcondiciones: -
+
+8.
+
+Título: Scoreboard de aciertos
+Actor: Usuario de la app
+Precondiciones: Debe existir un apartado de scoreboard
+Camino normal: Al seleccionar scoreboard, se podrá registrar la cantidad de aciertos en el scoreboard bajo un nombre y se mostrarán los 10 con más aciertos.
+Postcondiciones: -

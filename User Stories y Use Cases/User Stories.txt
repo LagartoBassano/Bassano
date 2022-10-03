@@ -1,0 +1,21 @@
+1. Como espectador casual quiero poder elegir entre las selecciones para ver los partidos donde juega la selección por la que hincho
+
+2. Como espectador aficionado extranjero quiero poder traducir la página al inglés para poder entenderla y saber manejarme
+
+3. Como espectador aficionado quiero poder buscar selecciones por nombre para no tener que aprenderme las banderas
+
+4. Como espectador aficionado quiero poder comparar predicciones con los resultados reales de los partidos para saber cuantos resultados acerté
+
+5. Como espectador aficionado quiero poder ver los partidos en forma individual para no desperdiciar mucho tiempo buscando si selecciono una selección sola
+
+6. Como espectador aficionado quiero poder ver un listado de partidos para buscar más fácilmente si elijo muchas selecciones a la vez
+
+7. Como espectador aficionado quiero poder ver el plantel de ambas selecciones para saber que jugadores van a disputar el partido
+
+8. Como espectador acérrimo quiero poder buscar partidos por fecha para saber que partidos hay en determinada fecha
+
+9. Como espectador acérrimo quiero poder buscar partidos por continente para saber que partidos tienen que disputar las selecciones sudamericanas sin tener que seleccionarlas una por una
+
+10. Como espectador acérrimo quiero ver quienes hicieron los goles junto con el resultado para saber que jugadores y en que minutos se hicieron los goles
+
+11. Como espectador acérrimo quiero ver resultados de partidos que ya se hayan jugado para entender la trayectoria mundialista de cada selección

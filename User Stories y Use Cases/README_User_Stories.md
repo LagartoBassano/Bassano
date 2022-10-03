@@ -1,0 +1,2 @@
+Los user stories que se encuentran en el archivo "User Stories.txt" fueron los obtenidos de las entrevistas luego de eliminar los repetidos y de pedirle a los entrevistados que reformularan algunos de ellos debido a la imposibilidad de llevarlos a cabo.
+Originalmente había más User Stories pero no le veo el sentido a incluir varios user stories que hablan de exactamente la misma funcionalidad. Esto sucedió bastante debido a la "simpleza" de la app a desarrollar.
