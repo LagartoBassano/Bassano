@@ -51,7 +51,7 @@ Postcondiciones: Se mostrarán en pantalla todos los partidos que se jugaron o s
 Título: Ver goleadores
 Actor: Usuario de la app
 Precondiciones: Debe existir un botón de mostrar goleadores
-Camino normal: Al clickear el botón de goleadores, se mostrará abajo de cada resultado de los partidos ya jugados quienes hicieron los goles
+Camino normal: Al clickear el botón de goleadores, se mostrará abajo de cada resultado de los partidos los jugados que hicieron los goles
 Postcondiciones: -
 
 8.
