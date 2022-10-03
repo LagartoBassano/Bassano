@@ -1,0 +1,1 @@
+El modelo conceptual del problema fue realizado de forma similar a un MER (no exactamente igual), identificando entidades (con sus atributos) y relaciones
